@@ -7,7 +7,6 @@ public class Variables101 {
         double b = 54.9; // declaration and initialization
         char c = 'f';
 
-
         System.out.println(a);
         System.out.println(b);
         System.out.println(c);

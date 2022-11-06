@@ -4,30 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="46ee0acc-fb7e-4383-943a-5919df51ed87" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaOneSpar.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Collections/Arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Collections/Lists.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Collections/Maps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ControlFlow/AgeLimitMovies.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ControlFlow/GreetingBot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataTypeAndOperators/BooleanRelational.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataTypeAndOperators/DataTypes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataTypeAndOperators/Operators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataTypeAndOperators/String101.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HelloWorld/HelloWorld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Variables/Concatenation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Variables/StringMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Variables/Variables101.java" afterDir="false" />
+    <list default="true" id="46ee0acc-fb7e-4383-943a-5919df51ed87" name="Changes" comment="Variables, data types, operators, control flow, collections">
+      <change afterPath="$PROJECT_DIR$/src/Calculator/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Calculator/CalculatorMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Classes/Classes101.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Functions/Functions101.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Loops/For.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Loops/NumberGuessingGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Loops/While.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Programs/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Programs/Scrabble.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Scrabble/ScrabbleMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Scrabble/ScrabbleScore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ControlFlow/AgeLimitMovies.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ControlFlow/AgeLimitMovies.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ControlFlow/GreetingBot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ControlFlow/GreetingBot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Variables/Concatenation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Variables/Concatenation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Variables/Variables101.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Variables/Variables101.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,6 +60,26 @@
     "settings.editor.selected.configurable": "preferences.editor"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="Functions101" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Functions.Functions101" />
+      <module name="JavaOneSpar" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Functions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Functions101" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -76,6 +89,14 @@
       <option name="presentableId" value="Default" />
       <updated>1667571042561</updated>
     </task>
+    <task id="LOCAL-00001" summary="Variables, data types, operators, control flow, collections">
+      <created>1667613126472</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1667613126472</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -88,5 +109,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Variables, data types, operators, control flow, collections" />
+    <option name="LAST_COMMIT_MESSAGE" value="Variables, data types, operators, control flow, collections" />
   </component>
 </project>
