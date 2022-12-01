@@ -1,4 +1,4 @@
-package Classes.Triangle;
+package Programs.TriangleAreaCalculator;
 
 public class TriangleMain {
     public static void main(String[] args) {

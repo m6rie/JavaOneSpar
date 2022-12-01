@@ -1,4 +1,4 @@
-package Calculator;
+package Programs.Calculator;
 
 import java.util.Scanner;
 
@@ -10,7 +10,7 @@ public class CalculatorMain {
 
         System.out.println(
                 "+---------------------+\n" +
-                "|      Calculator     |\n" +
+                "|      Programs.Calculator     |\n" +
                 "+---------------------+\n" +
                 "| C | | % | |   | | + |\n" +
                 "+---+-+---+-+---+-+---+\n" +

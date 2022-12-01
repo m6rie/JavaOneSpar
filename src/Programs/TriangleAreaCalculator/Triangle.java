@@ -1,4 +1,4 @@
-package Classes.Triangle;
+package Programs.TriangleAreaCalculator;
 
 public class Triangle {
     double base;

@@ -1,4 +1,4 @@
-package Product;
+package Programs.VendingMachine;
 
 public class Product {
     private final String name;

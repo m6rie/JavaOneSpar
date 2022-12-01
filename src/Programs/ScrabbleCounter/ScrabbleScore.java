@@ -1,6 +1,4 @@
-package Scrabble;
-
-import java.util.ArrayList;
+package Programs.ScrabbleCounter;
 
 public class ScrabbleScore {
     String[] letterArrays = {"AEIOULNRST","DG","BCMP","FHVWY","K","JX","QZ"};

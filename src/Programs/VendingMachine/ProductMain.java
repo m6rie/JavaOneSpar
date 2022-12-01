@@ -1,4 +1,4 @@
-package Product;
+package Programs.VendingMachine;
 
 import java.text.DecimalFormat;
 import java.util.Scanner;

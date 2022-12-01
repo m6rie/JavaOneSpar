@@ -1,4 +1,4 @@
-package Scrabble;
+package Programs.ScrabbleCounter;
 
 import java.util.Scanner;
 
@@ -9,7 +9,7 @@ public class ScrabbleMain {
         ScrabbleScore scrabbleScorer = new ScrabbleScore();
 
         System.out.println("\n" +
-                GREEN_BOLD_BRIGHT +"       Scrabble Score Calculator      "+RESET +
+                GREEN_BOLD_BRIGHT +"       Programs.Scrabble Score Programs.Calculator      "+RESET +
                 "\n+-------------------------------------+\n" +
                 "| Which word do you need a score for? |\n" +
                 "+-------------------------------------+\n" +
